@@ -19,7 +19,7 @@ Whitney High School Class of 2025 T-Shirt (2021)
 
 Jesus Club Praise Night Sticker (2022)
 
-<img src="https://user-images.githubusercontent.com/114511310/193430180-80f74f39-bc35-4e56-b716-89eadb4f8694.png" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/114511310/193430180-80f74f39-bc35-4e56-b716-89eadb4f8694.png" width="300" height="250">
 
 Club Kaibigan Cabinet Crewneck (2022)
 

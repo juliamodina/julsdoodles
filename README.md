@@ -11,12 +11,11 @@ Club Kaibigan PCN: Magkasama Logo (2020)
 
 Whitney High School ASB Uniform (2021)
 
-<img src="https://user-images.githubusercontent.com/114511310/193429680-3b8ec088-1b1f-407e-b027-19f9cf9aa8c7.jpg" width="500" height="500"> 
+<img src="https://user-images.githubusercontent.com/114511310/193429680-3b8ec088-1b1f-407e-b027-19f9cf9aa8c7.jpg" width="300" height="300"> 
 
 Whitney High School Class of 2025 T-Shirt (2021)
 
-<img src="https://user-images.githubusercontent.com/114511310/193429941-79cd8f6f-1610-467c-88bc-7184d149e75b.png" width="500" height="420"> 
-<img src="https://user-images.githubusercontent.com/114511310/193429952-e93869e9-4014-4f32-973c-22a7fbf1fd08.png" width="500" height="420">
+<img src="https://user-images.githubusercontent.com/114511310/193429941-79cd8f6f-1610-467c-88bc-7184d149e75b.png" width="300" height="252"> <img src="https://user-images.githubusercontent.com/114511310/193429952-e93869e9-4014-4f32-973c-22a7fbf1fd08.png" width="300" height="252">
 
 Jesus Club Praise Night Sticker (2022)
 
@@ -24,8 +23,8 @@ Jesus Club Praise Night Sticker (2022)
 
 Club Kaibigan Cabinet Crewneck (2022)
 
-<img src="https://user-images.githubusercontent.com/114511310/193430234-bb933441-78fe-4616-b492-985ab4d9c333.jpg" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/114511310/193430234-bb933441-78fe-4616-b492-985ab4d9c333.jpg" width="300" height="360">
 
 Code Jam 2023 Shirt Design (2022)
 
-<img src="https://user-images.githubusercontent.com/114511310/193430283-305d6929-da42-4fbe-a5be-af105451aee4.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/114511310/193430283-305d6929-da42-4fbe-a5be-af105451aee4.jpg" width="300" height="300">

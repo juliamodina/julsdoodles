@@ -2,7 +2,7 @@
 Portfolio (2020-present)
 
 ## Introduction
-Hello! My name is Julia, and I am high school student interested in graphic design & digital media. Although I am very new to the digital design world, I enjoy creating digital art for numerous clubs and groups based at my school, which you will see many examples of in this website. Most of my designs are made in ProCreate!
+Hello! My name is Julia, and I am high school student interested in graphic design & digital media. Although I am very new to the digital design world, I enjoy creating digital art for numerous clubs and groups based at my school, which you will see many examples of in this website. Most of my designs are made in [Procreate](https://procreate.art/)! If you are interested in a design, please email juliammodina@gmail.com!
 
 ### Portfolio
 Club Kaibigan PCN: Magkasama Logo (2020)
